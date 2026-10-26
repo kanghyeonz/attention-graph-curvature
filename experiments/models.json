@@ -1,0 +1,118 @@
+{
+  "Llama-3.1-8B-Instruct": {
+    "id": "meta-llama/Llama-3.1-8B-Instruct",
+    "revision": "0e9e39f249a16976918f6564b8830bc894c89659",
+    "dtype": "float16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "model-00001-of-00004.safetensors",
+      "model-00002-of-00004.safetensors",
+      "model-00003-of-00004.safetensors",
+      "model-00004-of-00004.safetensors",
+      "model.safetensors.index.json",
+      "special_tokens_map.json",
+      "tokenizer.json",
+      "tokenizer_config.json"
+    ]
+  },
+  "Meta-Llama-3-8B-Instruct": {
+    "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "revision": "8afb486c1db24fe5011ec46dfbe5b5dccdb575c2",
+    "dtype": "float16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "model-00001-of-00004.safetensors",
+      "model-00002-of-00004.safetensors",
+      "model-00003-of-00004.safetensors",
+      "model-00004-of-00004.safetensors",
+      "model.safetensors.index.json",
+      "special_tokens_map.json",
+      "tokenizer.json",
+      "tokenizer_config.json"
+    ]
+  },
+  "Qwen2-1.5B-Instruct": {
+    "id": "Qwen/Qwen2-1.5B-Instruct",
+    "revision": "ba1cf1846d7df0a0591d6c00649f57e798519da8",
+    "dtype": "bfloat16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "merges.txt",
+      "model.safetensors",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  },
+  "Qwen2-7B-Instruct": {
+    "id": "Qwen/Qwen2-7B-Instruct",
+    "revision": "f2826a00ceef68f0f2b946d945ecc0477ce4450c",
+    "dtype": "bfloat16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "merges.txt",
+      "model-00001-of-00004.safetensors",
+      "model-00002-of-00004.safetensors",
+      "model-00003-of-00004.safetensors",
+      "model-00004-of-00004.safetensors",
+      "model.safetensors.index.json",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  },
+  "Qwen2.5-1.5B-Instruct": {
+    "id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "dtype": "bfloat16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "merges.txt",
+      "model.safetensors",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  },
+  "Qwen2.5-7B-Instruct": {
+    "id": "Qwen/Qwen2.5-7B-Instruct",
+    "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+    "dtype": "bfloat16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "merges.txt",
+      "model-00001-of-00004.safetensors",
+      "model-00002-of-00004.safetensors",
+      "model-00003-of-00004.safetensors",
+      "model-00004-of-00004.safetensors",
+      "model.safetensors.index.json",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  },
+  "Qwen2.5-Math-7B-Instruct": {
+    "id": "Qwen/Qwen2.5-Math-7B-Instruct",
+    "revision": "ef9926d75ab1d54532f6a30dd5e760355eb9aa4d",
+    "dtype": "bfloat16",
+    "files": [
+      "config.json",
+      "generation_config.json",
+      "merges.txt",
+      "model-00001-of-00004.safetensors",
+      "model-00002-of-00004.safetensors",
+      "model-00003-of-00004.safetensors",
+      "model-00004-of-00004.safetensors",
+      "model.safetensors.index.json",
+      "tokenizer.json",
+      "tokenizer_config.json",
+      "vocab.json"
+    ]
+  }
+}

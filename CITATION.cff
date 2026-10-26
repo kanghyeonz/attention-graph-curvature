@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Attention-Graph Curvature for the Verification of Mathematical Reasoning"
+type: software
+authors:
+  - family-names: Kim
+    given-names: Kanghyeon
+  - family-names: Lutzeyer
+    given-names: Johannes F.
+  - family-names: Guo
+    given-names: Yanzhu
+url: "https://arxiv.org/abs/2610.16709"
+repository-code: "https://github.com/kanghyeonz/attention-graph-curvature"
+preferred-citation:
+  type: article
+  title: "Attention-Graph Curvature for the Verification of Mathematical Reasoning"
+  authors:
+    - family-names: Kim
+      given-names: Kanghyeon
+    - family-names: Lutzeyer
+      given-names: Johannes F.
+    - family-names: Guo
+      given-names: Yanzhu
+  year: 2026
+  journal: arXiv
+  url: "https://arxiv.org/abs/2610.16709"

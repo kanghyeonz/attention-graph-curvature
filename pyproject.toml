@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "attention-graph-curvature"
+version = "0.1.0"
+description = "Experiments for Attention-Graph Curvature for the Verification of Mathematical Reasoning"
+readme = "README.md"
+license-files = ["LICENSE", "licenses/*.txt"]
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "matplotlib"]
+
+[project.optional-dependencies]
+experiments = ["torch", "scikit-learn", "transformers", "datasets", "huggingface-hub", "accelerate"]
+
+[tool.setuptools]
+packages = ["graphcurv"]

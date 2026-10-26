@@ -1,0 +1,12 @@
+# python 3.12, the versions we ran with
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+numpy==2.5.0
+scipy==1.18.0
+scikit-learn==1.9.0
+transformers==5.5.4
+datasets==5.0.0
+accelerate==1.14.0
+huggingface-hub==1.21.0
+tokenizers==0.22.2
+matplotlib==3.11.1
