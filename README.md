@@ -96,13 +96,13 @@ python -m unittest discover -s tests
 ## Citation
 
 ```bibtex
-@misc{kim2026attentiongraphcurvature,
-  title={Attention-Graph Curvature for the Verification of Mathematical Reasoning},
-  author={Kanghyeon Kim and Johannes F. Lutzeyer and Yanzhu Guo},
-  year={2026},
-  eprint={2610.16709},
-  archivePrefix={arXiv},
-  url={https://arxiv.org/abs/2610.16709}
+@inproceedings{
+kim2026attentiongraph,
+title={Attention-Graph Curvature for the Verification of Mathematical Reasoning},
+author={Kanghyeon Kim and Johannes F. Lutzeyer and Yanzhu Guo},
+booktitle={The Sixth Workshop on Mathematical Reasoning and AI},
+year={2026},
+url={https://openreview.net/forum?id=LY0W4Qcohd}
 }
 ```
 
