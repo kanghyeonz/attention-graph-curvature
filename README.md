@@ -1,6 +1,6 @@
 # Attention-Graph Curvature for the Verification of Mathematical Reasoning
 
-Code for our paper ([arXiv:2610.16709](https://arxiv.org/abs/2610.16709)).
+Code for our paper at the Sixth Workshop on Mathematical Reasoning and AI (MATH-AI @ NeurIPS 2026) ([Paper](https://openreview.net/forum?id=LY0W4Qcohd) | [arXiv](https://arxiv.org/abs/2610.16709)).
 
 We add directed Forman curvature of the attention graph to four step-level verifiers and compare it with two simpler attention features. The data are 1,994 ProcessBench solutions from seven open models on GSM8K, MATH, OlympiadBench and Omni-MATH.
 
