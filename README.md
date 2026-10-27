@@ -100,7 +100,7 @@ python -m unittest discover -s tests
 kim2026attentiongraph,
 title={Attention-Graph Curvature for the Verification of Mathematical Reasoning},
 author={Kanghyeon Kim and Johannes F. Lutzeyer and Yanzhu Guo},
-booktitle={The Sixth Workshop on Mathematical Reasoning and AI},
+booktitle={The Sixth Workshop on Mathematical Reasoning and AI (NeurIPS 2026)},
 year={2026},
 url={https://openreview.net/forum?id=LY0W4Qcohd}
 }
